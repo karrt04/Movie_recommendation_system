@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/18OJJkEpXY-Fb9SSfl9Lq6do6e8cWtbnB
+
+File contains dataset + glove embeddings file
