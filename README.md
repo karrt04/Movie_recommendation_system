@@ -1,5 +1,3 @@
-PROJECT ASSIGNMENT
-
 
 Problem statement:
 Create and compare movie recommendation systems
